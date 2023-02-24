@@ -9,7 +9,7 @@
 [ext_resource path="res://UI/HUD.tscn" type="PackedScene" id=7]
 [ext_resource path="res://UI/Instructions.tscn" type="PackedScene" id=8]
 [ext_resource path="res://Effects/Camera.gd" type="Script" id=9]
-[ext_resource path="res://Assets/music.mp3" type="AudioStream" id=10]
+[ext_resource path="res://Assets/juicy brick breaker theme trimmed.mp3" type="AudioStream" id=10]
 [ext_resource path="res://Ball/Comet_Container.gd" type="Script" id=11]
 [ext_resource path="res://Assets/brick.wav" type="AudioStream" id=12]
 [ext_resource path="res://Assets/die.wav" type="AudioStream" id=13]
